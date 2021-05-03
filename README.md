@@ -34,3 +34,5 @@ character between the 'begin' timestamp and the 'finish' time stamp.
 After that, the program will export a cnsr file which consists of all the tags with their spacifiction,
 
 printed row by row.
+
+
